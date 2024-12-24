@@ -2,7 +2,7 @@
 
 I am Sahil Rana, people call me VooDuu. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-rana-51b669331/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-rana-51b669331/)](https://www.linkedin.com/in/sahil-rana-51b669331/)
 [![Instagram Badge](https://img.shields.io/badge/-sahiil.thakur-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sahiil.thakur/)](https://instagram.com/sahiil.tahkur)
 [![Gmail Badge](https://img.shields.io/badge/-sahilrana27582@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilrana27582@gmail.com)](mailto:sahilrana27582@gmail.com)
 
