@@ -34,6 +34,9 @@ I am Sahil Rana, people call me VooDuu. I am a tech enthusiast & an open-source 
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sahilrana7582&count_private=true&show_icons=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrana7582&layout=compact&langs_count=10&theme=radical)](https://github.com/sahilrana7582/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=sahilrana7582&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sahilrana7582&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrana7582&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
