@@ -105,41 +105,86 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Contributions
+
+<details open>
+  <summary><b>🏆 GitHub Profile Trophy</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahilrana7582&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophy" width="100%" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>📈 GitHub Stats & Languages</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <img src="https://github-readme-stats.vercel.app/api?username=sahilrana7582&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="Sahil's Github Stats" />
+        </td>
+        <td width="50%">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrana7582&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117" alt="Sahil's Top Languages" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<details open>
+  <summary><b>🔥 Streak Stats & Activity</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="100%">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrana7582&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" width="100%" />
+        </td>
+      </tr>
+      <tr>
+        <td width="100%">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrana7582&custom_title=Sahil's%20Contribution%20Graph&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=6E56CF&point=FFFFFF" alt="Activity Graph" width="100%" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<details open>
+  <summary><b>⏱️ Weekly Development Breakdown</b></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sahilrana7582&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Weekly Development Breakdown" width="70%" />
+  </div>
+</details>
+
+<details open>
+  <summary><b>🌟 Recent GitHub Activity</b></summary>
+  <div align="center">
+    <!-- Activity workflow - you'll need to set up GitHub Actions for this -->
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
+  </div>
+</details>
 
 <div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sahilrana7582&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-
----
-
-### 💡 GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sahilrana7582&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrana7582&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="100%"/></td>
-  </tr>
-</table>
-
----
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrana7582&theme=tokyonight&hide_border=true" width="80%" />
-
----
-
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrana7582&theme=tokyo-night&hide_border=true" width="100%" />
-
----
-
-### 📅 Contribution Calendar
-<img src="https://github.com/sahilrana7582/sahilrana7582/raw/output/github-contribution-grid-snake.svg" alt="Contribution Calendar" width="100%" />
-
----
-
-### 👁️‍🗨️ Profile Views
-<img src="https://komarev.com/ghpvc/?username=sahilrana7582&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=sahilrana7582&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/followers/sahilrana7582?label=Followers&style=for-the-badge&color=orange" alt="Followers" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/sahilrana7582?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <h3>💬 Let's connect and create something amazing together! 💬</h3>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<!-- Proudly created by Sahil Rana (VooDuu) -->
