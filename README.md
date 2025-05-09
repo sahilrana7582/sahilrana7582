@@ -108,38 +108,38 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilrana7582&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
-</div>
 
-<div>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sahilrana7582&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrana7582&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" />
-</div>
-
-<br><br><br><br><br><br><br><br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrana7582&theme=tokyonight&hide_border=true" width="80%" />
-</div>
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=sahilrana7582&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img alt="Sahil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrana7582&theme=tokyo-night&hide_border=true" />
-</div>
+### 💡 GitHub Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sahilrana7582&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrana7582&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilrana7582&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</div>
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrana7582&theme=tokyonight&hide_border=true" width="80%" />
 
-<div align="center">
-  <h3>💬 Let's connect and create something amazing together! 💬</h3>
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+---
 
-<!-- Proudly created by Sahil Rana (VooDuu) -->
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilrana7582&theme=tokyo-night&hide_border=true" width="100%" />
+
+---
+
+### 📅 Contribution Calendar
+<img src="https://github.com/sahilrana7582/sahilrana7582/raw/output/github-contribution-grid-snake.svg" alt="Contribution Calendar" width="100%" />
+
+---
+
+### 👁️‍🗨️ Profile Views
+<img src="https://komarev.com/ghpvc/?username=sahilrana7582&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+
+</div>
